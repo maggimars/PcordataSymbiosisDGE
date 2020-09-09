@@ -1,0 +1,35 @@
+[2019-06-10 18:28:12.349] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-06-10 18:28:12.349] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-06-10 18:28:12.349] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-06-10 18:28:12.349] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-06-10 18:28:12.349] [jointLog] [info] parsing read library format
+[2019-06-10 18:28:12.349] [jointLog] [info] There is 1 library.
+[2019-06-10 18:28:12.509] [jointLog] [info] Loading Quasi index
+[2019-06-10 18:28:12.509] [jointLog] [info] Loading 32-bit quasi index
+[2019-06-10 18:28:14.521] [jointLog] [info] done
+[2019-06-10 18:28:14.521] [jointLog] [info] Index contained 32,621 targets
+[2019-06-10 18:28:20.185] [jointLog] [info] Automatically detected most likely library type as IU
+[2019-06-10 19:17:24.346] [fileLog] [info] 
+At end of round 0
+==================
+Observed 64145053 total fragments (64145053 in most recent round)
+
+[2019-06-10 19:17:24.345] [jointLog] [info] Computed 33,141 rich equivalence classes for further processing
+[2019-06-10 19:17:24.345] [jointLog] [info] Counted 45,980,264 total reads in the equivalence classes 
+[2019-06-10 19:17:24.362] [jointLog] [info] Number of mappings discarded because of alignment score : 7,935,410
+[2019-06-10 19:17:24.362] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 6,529,569
+[2019-06-10 19:17:24.362] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 593,121
+[2019-06-10 19:17:24.362] [jointLog] [info] Mapping rate = 71.6817%
+
+[2019-06-10 19:17:24.362] [jointLog] [info] finished quantifyLibrary()
+[2019-06-10 19:17:24.363] [jointLog] [info] Starting optimizer
+[2019-06-10 19:17:24.380] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-06-10 19:17:24.385] [jointLog] [info] iteration = 0 | max rel diff. = 7142.31
+[2019-06-10 19:17:25.795] [jointLog] [info] iteration = 100 | max rel diff. = 1.05228e-09
+[2019-06-10 19:17:25.796] [jointLog] [info] Finished optimizer
+[2019-06-10 19:17:25.796] [jointLog] [info] writing output 
+
+[2019-06-10 19:17:25.852] [jointLog] [warning] NOTE: Read Lib [[ /work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/CJtrimmed/erccBT2/PC4_1_paired.fq, /work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/CJtrimmed/erccBT2/PC4_2_paired.fq]] :
+
+Detected a *potential* strand bias > 1% in an unstranded protocol check the file: quants2/PC4_quant/lib_format_counts.json for details
+

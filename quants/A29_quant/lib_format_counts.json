@@ -1,0 +1,25 @@
+{
+    "read_files": [
+        "/work/student/maggi-brisbin/hiseqRNAseq/Atrim/A29_1_paired.fq",
+        "/work/student/maggi-brisbin/hiseqRNAseq/Atrim/A29_2_paired.fq"
+    ],
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 1956825,
+    "num_assigned_fragments": 1956825,
+    "num_frags_with_concordant_consistent_mappings": 1415507,
+    "num_frags_with_inconsistent_or_orphan_mappings": 711379,
+    "strand_mapping_bias": 0.49117100798512478,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 720251,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 695256,
+    "SF": 432422,
+    "SR": 278957,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

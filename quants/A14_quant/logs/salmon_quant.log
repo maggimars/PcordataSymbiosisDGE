@@ -1,0 +1,34 @@
+[2019-06-10 17:49:04.634] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-06-10 17:49:04.634] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-06-10 17:49:04.634] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-06-10 17:49:04.634] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-06-10 17:49:04.634] [jointLog] [info] parsing read library format
+[2019-06-10 17:49:04.634] [jointLog] [info] There is 1 library.
+[2019-06-10 17:49:04.682] [jointLog] [info] Loading Quasi index
+[2019-06-10 17:49:04.683] [jointLog] [info] Loading 32-bit quasi index
+[2019-06-10 17:49:07.603] [jointLog] [info] done
+[2019-06-10 17:49:07.603] [jointLog] [info] Index contained 32,621 targets
+[2019-06-10 17:51:40.594] [jointLog] [info] Automatically detected most likely library type as IU
+[2019-06-10 19:04:25.479] [jointLog] [info] Computed 8,842 rich equivalence classes for further processing
+[2019-06-10 19:04:25.479] [jointLog] [info] Counted 2,264,055 total reads in the equivalence classes 
+[2019-06-10 19:04:25.487] [jointLog] [info] Number of mappings discarded because of alignment score : 447,548
+[2019-06-10 19:04:25.487] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 4,558,822
+[2019-06-10 19:04:25.487] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 33,684
+[2019-06-10 19:04:25.489] [jointLog] [warning] Only 2264055 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2019-06-10 19:04:25.489] [jointLog] [info] Mapping rate = 2.55992%
+
+[2019-06-10 19:04:25.489] [jointLog] [info] finished quantifyLibrary()
+[2019-06-10 19:04:25.490] [jointLog] [info] Starting optimizer
+[2019-06-10 19:04:25.513] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-06-10 19:04:25.518] [jointLog] [info] iteration = 0 | max rel diff. = 6450.99
+[2019-06-10 19:04:25.480] [fileLog] [info] 
+At end of round 0
+==================
+Observed 88442308 total fragments (88442308 in most recent round)
+
+[2019-06-10 19:04:26.631] [jointLog] [info] iteration = 100 | max rel diff. = 2.97576e-08
+[2019-06-10 19:04:26.658] [jointLog] [info] Finished optimizer
+[2019-06-10 19:04:26.658] [jointLog] [info] writing output 
+

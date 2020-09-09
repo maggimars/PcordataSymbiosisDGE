@@ -1,0 +1,16 @@
+sample	condition	run
+A7	S	A7_quant
+A12	S	A12_quant
+A14	S	A14_quant
+A22	S	A22_quant
+A25	S	A25_quant
+A27	S	A27_quant
+A35	S	A35_quant
+PC2	F	PC2_quant
+PC3	F	PC3_quant
+PC4	F	PC4_quant
+A36	S	A36_quant
+A20	S	A20_quant
+A21	S	A21_quant
+A28	S	A28_quant
+A29	S	A29_quant

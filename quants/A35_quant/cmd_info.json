@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.13.1",
+    "index": "PC_index",
+    "libType": "A",
+    "mates1": "/work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/Atrimmed//A35_1_paired.fq",
+    "mates2": "/work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/Atrimmed//A35_2_paired.fq",
+    "threads": "10",
+    "validateMappings": [],
+    "output": "quants2/A35_quant",
+    "auxDir": "aux_info"
+}

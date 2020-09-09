@@ -1,0 +1,25 @@
+{
+    "read_files": [
+        "/work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/Atrimmed//A12_1_paired.fq",
+        "/work/student/maggi-brisbin/hiseqRNAseq/March2019_APcPj/hiSeqRnd2/Atrimmed//A12_2_paired.fq"
+    ],
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 1262776,
+    "num_assigned_fragments": 1262776,
+    "num_frags_with_concordant_consistent_mappings": 893159,
+    "num_frags_with_inconsistent_or_orphan_mappings": 461046,
+    "strand_mapping_bias": 0.4929458248755261,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 452880,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 440279,
+    "SF": 236905,
+    "SR": 224141,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

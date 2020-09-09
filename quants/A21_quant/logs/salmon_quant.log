@@ -1,0 +1,31 @@
+[2019-06-10 18:48:40.801] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2019-06-10 18:48:40.801] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2019-06-10 18:48:40.801] [jointLog] [info] Usage of --validateMappings, without --hardFilter implies use of range factorization. rangeFactorizationBins is being set to 4
+[2019-06-10 18:48:40.801] [jointLog] [info] Usage of --validateMappings implies a default consensus slack of 0.2. Setting consensusSlack to 0.2.
+[2019-06-10 18:48:40.801] [jointLog] [info] parsing read library format
+[2019-06-10 18:48:40.801] [jointLog] [info] There is 1 library.
+[2019-06-10 18:48:40.838] [jointLog] [info] Loading Quasi index
+[2019-06-10 18:48:40.838] [jointLog] [info] Loading 32-bit quasi index
+[2019-06-10 18:48:42.767] [jointLog] [info] done
+[2019-06-10 18:48:42.767] [jointLog] [info] Index contained 32,621 targets
+[2019-06-10 18:50:16.886] [jointLog] [info] Automatically detected most likely library type as IU
+[2019-06-10 22:18:29.915] [fileLog] [info] 
+At end of round 0
+==================
+Observed 268732550 total fragments (268732550 in most recent round)
+
+[2019-06-10 22:18:29.914] [jointLog] [info] Computed 12,608 rich equivalence classes for further processing
+[2019-06-10 22:18:29.914] [jointLog] [info] Counted 8,156,278 total reads in the equivalence classes 
+[2019-06-10 22:18:29.920] [jointLog] [info] Number of mappings discarded because of alignment score : 2,437,208
+[2019-06-10 22:18:29.920] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 23,421,876
+[2019-06-10 22:18:29.920] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings : 189,726
+[2019-06-10 22:18:29.920] [jointLog] [info] Mapping rate = 3.03509%
+
+[2019-06-10 22:18:29.920] [jointLog] [info] finished quantifyLibrary()
+[2019-06-10 22:18:29.921] [jointLog] [info] Starting optimizer
+[2019-06-10 22:18:29.934] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-06-10 22:18:29.939] [jointLog] [info] iteration = 0 | max rel diff. = 20802.7
+[2019-06-10 22:18:31.038] [jointLog] [info] iteration = 100 | max rel diff. = 6.45631e-11
+[2019-06-10 22:18:31.068] [jointLog] [info] Finished optimizer
+[2019-06-10 22:18:31.068] [jointLog] [info] writing output 
+
