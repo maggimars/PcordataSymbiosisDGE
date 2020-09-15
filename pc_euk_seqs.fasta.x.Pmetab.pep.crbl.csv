@@ -1,0 +1,16 @@
+E,EG2,E_scaled,ID,bitscore,q_aln_len,q_frame,q_len,seqid,q_start,q_strand,s_aln_len,s_len,geneName,s_start,s_strand,score
+3.30E-133,3.50E-118,132.4814861,42331,449.9550142,532,2,740,Transcript_6176,67,+,567,754,jgi|Emihu1|462501|estExtDG_fgeneshEH_pg.C_150008|Phytase,82,+,1012
+3.50E-88,6.30E-76,87.45593196,42332,309.5990657,276,2,740,Transcript_6176,223,+,299,299,jgi|Emihu1|62875|e_gw1.12.100.1|Phytase,0,+,694
+1.90E-91,1.20E-77,90.7212464,42336,315.3368875,276,4,567,Transcript_6177,100,+,299,299,jgi|Emihu1|62875|e_gw1.12.100.1|Phytase,0,+,707
+5.20E-55,3.10E-43,54.28399666,21285,201.0218225,137,1,644,Transcript_8337,456,+,137,895,jgi|Emihu1|230310|gm1.16200121|Alkaline_phosphatase_domaincontaining_protein,752,+,448
+5.00E-75,1.10E-63,74.30103,48273,268.9929422,527,0,1178,Transcript_16444,43,+,554,597,jgi|Emihu1|111972|fgeneshEH_pg.160__41|5'_nucleotidase,31,+,602
+2.90E-143,2.10E-130,142.537602,33113,490.5611377,527,2,1031,Transcript_23159,134,+,538,600,jgi|Emihu1|108787|fgeneshEH_pg.109__3|Cyclic_GMP_phosphodiesterase,46,+,1104
+2.40E-69,2.40E-53,68.61978876,14115,234.5660115,113,5,291,Transcript_24450,22,+,113,185,jgi|Emihu1|362631|fgenesh_newKGs_kg.134__32__EhuArl2|Phytase,0,+,524
+1.80E-96,1.50E-84,95.74472749,56208,338.2881747,664,4,898,Transcript_30948,67,+,658,862,jgi|Emihu1|433041|estExtDG_fgenesh_newKGs_kg.C_80168|Alkaline_phosphatase,116,+,759
+1.30E-101,3.80E-90,100.8860566,8770,356.8257528,182,5,1223,Transcript_14812,48,+,180,205,jgi|Emihu1|439540|estExtDG_fgenesh_newKGs_kg.C_1030026|Inorganic_pyrophosphatase,7,+,801
+1.30E-101,3.80E-90,100.8860566,8771,356.8257528,182,5,1223,Transcript_14812,48,+,180,205,jgi|Emihu1|447001|estExtDG_fgenesh_newKGs_kg.C_12870001|Inorganic_pyrophosphatase,7,+,801
+7.90E-121,3.60E-101,120.1023729,47297,393.4595381,244,4,410,Transcript_15809,20,+,250,283,jgi|Emihu1|437335|estExtDG_fgenesh_newKGs_kg.C_580016|Inorganic_pyrophosphatase,0,+,884
+4.70E-64,3.80E-52,63.32790214,16365,230.5936733,283,2,656,Transcript_29072,133,+,285,364,jgi|Emihu1|111381|fgeneshEH_pg.150__55|5'_nucleotidase,4,+,515
+5.00E-96,1.00E-80,95.30103,55800,325.4884184,272,3,487,Transcript_30671,50,+,258,269,jgi|Emihu1|237438|gm1.25000061|5'_nucleotidase,8,+,730
+5.90E-60,8.10E-49,59.22914799,13661,219.5594006,206,5,1385,Transcript_24138,756,+,205,486,jgi|Emihu1|436192|estExtDG_fgenesh_newKGs_kg.C_390122|Acidocalcisomal_pyrophosphatase,276,+,490
+1.80E-94,2.70E-82,93.74472749,13841,330.7848693,314,3,809,Transcript_24266,75,+,313,409,jgi|Emihu1|369509|fgenesh_newKGs_kg.373__4__EST_ALL.fasta.Contig11950|Alkaline_phosphatase,87,+,742
