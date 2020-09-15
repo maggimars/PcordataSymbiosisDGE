@@ -1,0 +1,13 @@
+trinity,seqid,score,Name,geneName
+TRINITY_DN874_c0_g3_i1,Transcript_3862,2.10E-09,XP_001702420.1 plastid division protein [Chlamydomonas reinhardtii] FtsZ,FtsZ
+TRINITY_DN1241_c0_g2_i2,Transcript_9042,1.10E-11,lcl|AB673433.1_prot_BAM11091.1_1 [gene=ftsZ] [protein=chloroplast division protein] [protein_id=BAM11091.1] [location=<1..>204] [gbkey=CDS] M. viride,FtsZ
+TRINITY_DN8918_c0_g1_i4,Transcript_11149,9.90E-10,NP_045875.1 septum site-determining protein (chloroplast) [Chlorella vulgaris],MinD
+TRINITY_DN1346_c1_g2_i1,Transcript_18487,7.80E-138,XP_001713182.1 cell division protein FtsZ [Guillardia theta],FtsZ
+TRINITY_DN1346_c1_g4_i2,Transcript_18490,1.20E-09,lcl|AB673433.1_prot_BAM11091.1_1 [gene=ftsZ] [protein=chloroplast division protein] [protein_id=BAM11091.1] [location=<1..>204] [gbkey=CDS] M. viride,FtsZ
+TRINITY_DN1302_c4_g1_i1,Transcript_18526,1.10E-08,XP_001702420.1 plastid division protein [Chlamydomonas reinhardtii] FtsZ,FtsZ
+TRINITY_DN246_c0_g2_i3,Transcript_18919,1.60E-08,XP_001702420.1 plastid division protein [Chlamydomonas reinhardtii] FtsZ,FtsZ
+TRINITY_DN10430_c0_g4_i2,Transcript_26867,1.60E-08,"lcl|NC_010144.1_prot_XP_005538591.1_1 [locus_tag=CYME_CMR358C] [db_xref=GeneID:16997013] [protein=hypothetical protein, conserved] [protein_id=XP_005538591.1] [location=complement(866685..868736)] [gbkey=CDS] PDR1",PDR1
+TRINITY_DN446_c0_g1_i1,Transcript_27723,9.20E-132,XP_001713182.1 cell division protein FtsZ [Guillardia theta],FtsZ
+TRINITY_DN21447_c0_g1_i1,Transcript_27837,8.00E-10,XP_001702420.1 plastid division protein [Chlamydomonas reinhardtii] FtsZ,FtsZ
+TRINITY_DN10705_c0_g1_i1,Transcript_29767,8.10E-09,XP_001702662.1 dynamin-related GTPase [Chlamydomonas reinhardtii],DRP5B
+TRINITY_DN5407_c0_g1_i1,Transcript_31610,3.80E-69,BAC55068.1 dynamin related protein involved in chloroplast division [Cyanidioschyzon merolae strain 10D],DRP5B
