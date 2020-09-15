@@ -93,7 +93,7 @@ one.data$plot_size <- as.numeric( as.character(one.data$plot_size) );
 one.data$frequency <- as.numeric( as.character(one.data$frequency) );
 one.data$uniqueness <- as.numeric( as.character(one.data$uniqueness) );
 one.data$dispensability <- as.numeric( as.character(one.data$dispensability) );
-ex <- one.data [ one.data$dispensability < 0.15, ]
+ex <- one.data[c(2,6,7,11,14,26,30,34,38,41,49,51,64,70,74,81,83,16) ,]
 
 one.data$value <- gsub('0', 'Down', one.data$value)
 one.data$value <- gsub('1', 'Up', one.data$value)
